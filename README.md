@@ -80,7 +80,7 @@ pip install -r requirements.txt
 #### 4. Flash-attention installation:
 ```bash
 pip install ninja
-pip install flash_attn==2.8.1 --no-build-isolation
+pip install flash-attn==2.8.0.post2 --no-build-isolation
 ```
 #### 5. FFmpeg installation
 ```bash
